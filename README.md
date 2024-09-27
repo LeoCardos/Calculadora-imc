@@ -22,11 +22,6 @@ Este projeto tem como objetivo ser um site para fins de estudos e experiencias
     - `Flex-Box`;
 
 - `JavaScript`
-  
-    
-
-## 📁 Acesse o projeto
-Clique aqui para ver o projeto em funcionamento.
 
 
 ## 🛠️ Rodar o projeto
